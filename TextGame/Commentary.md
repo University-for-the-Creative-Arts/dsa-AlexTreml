@@ -1,6 +1,5 @@
 # COMMENTARY.md
 
-## Reflection
 
 ### Data Structure Used
 
@@ -36,4 +35,5 @@ If the player reaches into the chest without a key or hook, they become injured 
 ### Challenges
 
 The main challenge was ensuring the **narrative flow remained logical** while still being driven by a simple graph structure.  
+
 
